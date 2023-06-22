@@ -1,14 +1,14 @@
 body{
-    background-color: rgb(137, 7, 7);
+    background-color:#307FE2;
     margin: 0;
 }
 body{
-    background-color: rgb(163, 202, 236);
+    background-color: #8BB8E8;
     margin: 0;
 }
 .header{
-    background-color: beige;
-    border: 2px solid rgb(130, 82, 43);
+    background-color:#8866BC;
+    border: 2px solid#307FE2;
     height: 90px;
 }
 .header .logo{
@@ -28,8 +28,8 @@ body{
     padding: 15px;
 }
 .footer{
-    background-color: beige;
-    border: 2px solid rgb(130, 82, 43);
+    background-color: #8866BC;
+    border: 2px solid #8BB8E8;
     height: 90px;
     text-align: center;
     font-size: 30px;
